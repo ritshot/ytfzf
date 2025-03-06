@@ -1,4 +1,4 @@
-PROG=ytfzf
+PROG=ytfzf  ert ert ert ert ert er te rte re rte r ergdfgdh hdsh h trhrshsh th
 PREFIX=/usr/local
 BINDIR=${PREFIX}/bin
 DOCDIR=${PREFIX}/share/doc/ytfzf
