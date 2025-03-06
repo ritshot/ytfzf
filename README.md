@@ -1,5 +1,4 @@
-# NOTICE
-wer wrertrey ertyrry ertty ety
+# NOTICEwrertrey ertyrry ertty ety
 This project is no longer actively maintained, it should still work for the foreseeable future
 
 ---
